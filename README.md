@@ -13,6 +13,12 @@ The default pin-out is:
 | 3    |    5     | MOSI     |
 | 4    |    6     | MISO     |
 
+
+If you have a W25* SPI NOR flash chip on a DIP-8 carrier board,
+your breadboard might look like this:
+
+![pico-serprog_bb.svg](doc/fritzing/pico-serprog_bb.svg)
+
 ## Usage
 
 Dump a flashchip:
@@ -23,6 +29,12 @@ flashrom -p serprog:dev=/dev/ttyACM0:115200,spispeed=12M -r foo.bin
 
 ## License
 
+### [stacksmashing](https://github.com/stacksmashing)
+
 The project is based on the spi_flash example by Raspberry Pi (Trading) Ltd. which is licensed under BSD-3-Clause.
 
 As a lot of the code itself was heavily inspired/influenced by `stm32-vserprog` this code is licensed under GPLv3.
+
+### [Stump Creek Technical Services LLC](https://github.com/stump-creek-technical-services-llc)
+
+I added documentation and binary releases, contributing under the GPLv3 terms.
