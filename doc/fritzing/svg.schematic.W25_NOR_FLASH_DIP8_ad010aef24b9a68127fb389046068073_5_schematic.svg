@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!-- Created with Fritzing (https://fritzing.org/) -->
+<svg xmlns="http://www.w3.org/2000/svg" baseProfile="tiny" height="0.5in" version="1.2" viewBox="0 0 600 500" width="0.6in" x="0in"  y="0in">
+    <desc >
+        <referenceFile >generic_ic_dip_v2_8_schem.svg</referenceFile>
+    </desc>
+    <g gorn="0.1" id="schematic" >
+        <rect fill="none" height="487.5" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="12.5" width="393.75" x="100"  y="6.25"/>
+        <text fill="#000000" font-family="Noto Sans" font-size="48.6111" gorn="0.1.1" id="label" stroke="none" text-anchor="middle" x="300"  y="151.389">IC</text>
+        <line connectorname="pin1" fill="none" gorn="0.1.2" id="connector0pin" stroke="#787878" stroke-linecap="round" stroke-linejoin="round" stroke-width="9.7222" x1="4.8611" x2="100"  y1="100" y2="100"/>
+        <text fill="#8c8c8c" font-family="Noto Sans" font-size="48.6111" gorn="0.1.3" id="label0" stroke="none" text-anchor="start" x="119.444"  y="109.722">pin1</text>
+        <text class="text" fill="#8c8c8c" font-family="Noto Sans" font-size="34.7222" stroke="none" stroke-width="0" text-anchor="middle" x="50"  y="85.4167">1</text>
+        <line connectorname="pin2" fill="none" gorn="0.1.5" id="connector1pin" stroke="#787878" stroke-linecap="round" stroke-linejoin="round" stroke-width="9.7222" x1="4.8611" x2="100"  y1="200" y2="200"/>
+        <text fill="#8c8c8c" font-family="Noto Sans" font-size="48.6111" gorn="0.1.6" id="label1" stroke="none" text-anchor="start" x="119.444"  y="209.722">pin2</text>
+        <text class="text" fill="#8c8c8c" font-family="Noto Sans" font-size="34.7222" stroke="none" stroke-width="0" text-anchor="middle" x="50"  y="185.417">2</text>
+        <line connectorname="pin3" fill="none" gorn="0.1.8" id="connector2pin" stroke="#787878" stroke-linecap="round" stroke-linejoin="round" stroke-width="9.7222" x1="4.8611" x2="100"  y1="300" y2="300"/>
+        <text fill="#8c8c8c" font-family="Noto Sans" font-size="48.6111" gorn="0.1.9" id="label2" stroke="none" text-anchor="start" x="119.444"  y="309.722">pin3</text>
+        <text class="text" fill="#8c8c8c" font-family="Noto Sans" font-size="34.7222" stroke="none" stroke-width="0" text-anchor="middle" x="50"  y="285.417">3</text>
+        <line connectorname="pin4" fill="none" gorn="0.1.11" id="connector3pin" stroke="#787878" stroke-linecap="round" stroke-linejoin="round" stroke-width="9.7222" x1="4.8611" x2="100"  y1="400" y2="400"/>
+        <text fill="#8c8c8c" font-family="Noto Sans" font-size="48.6111" gorn="0.1.12" id="label3" stroke="none" text-anchor="start" x="119.444"  y="409.722">pin4</text>
+        <text class="text" fill="#8c8c8c" font-family="Noto Sans" font-size="34.7222" stroke="none" stroke-width="0" text-anchor="middle" x="50"  y="385.417">4</text>
+        <line connectorname="pin8" fill="none" gorn="0.1.14" id="connector7pin" stroke="#787878" stroke-linecap="round" stroke-linejoin="round" stroke-width="9.7222" x1="495.139" x2="595.139"  y1="100" y2="100"/>
+        <text fill="#8c8c8c" font-family="Noto Sans" font-size="48.6111" gorn="0.1.15" id="label7" stroke="none" text-anchor="end" x="480.556"  y="109.722">pin8</text>
+        <text class="text" fill="#8c8c8c" font-family="Noto Sans" font-size="34.7222" stroke="none" stroke-width="0" text-anchor="middle" x="550"  y="85.4167">8</text>
+        <line connectorname="pin7" fill="none" gorn="0.1.17" id="connector6pin" stroke="#787878" stroke-linecap="round" stroke-linejoin="round" stroke-width="9.7222" x1="495.139" x2="595.139"  y1="200" y2="200"/>
+        <text fill="#8c8c8c" font-family="Noto Sans" font-size="48.6111" gorn="0.1.18" id="label6" stroke="none" text-anchor="end" x="480.556"  y="209.722">pin7</text>
+        <text class="text" fill="#8c8c8c" font-family="Noto Sans" font-size="34.7222" stroke="none" stroke-width="0" text-anchor="middle" x="550"  y="185.417">7</text>
+        <line connectorname="pin6" fill="none" gorn="0.1.20" id="connector5pin" stroke="#787878" stroke-linecap="round" stroke-linejoin="round" stroke-width="9.7222" x1="495.139" x2="595.139"  y1="300" y2="300"/>
+        <text fill="#8c8c8c" font-family="Noto Sans" font-size="48.6111" gorn="0.1.21" id="label5" stroke="none" text-anchor="end" x="480.556"  y="309.722">pin6</text>
+        <text class="text" fill="#8c8c8c" font-family="Noto Sans" font-size="34.7222" stroke="none" stroke-width="0" text-anchor="middle" x="550"  y="285.417">6</text>
+        <line connectorname="pin5" fill="none" gorn="0.1.23" id="connector4pin" stroke="#787878" stroke-linecap="round" stroke-linejoin="round" stroke-width="9.7222" x1="495.139" x2="595.139"  y1="400" y2="400"/>
+        <text fill="#8c8c8c" font-family="Noto Sans" font-size="48.6111" gorn="0.1.24" id="label4" stroke="none" text-anchor="end" x="480.556"  y="409.722">pin5</text>
+        <text class="text" fill="#8c8c8c" font-family="Noto Sans" font-size="34.7222" stroke="none" stroke-width="0" text-anchor="middle" x="550"  y="385.417">5</text>
+    </g>
+</svg>
